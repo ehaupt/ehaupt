@@ -4,4 +4,5 @@
 
 ### Stats
 ![ehaupt's github stats](https://github-readme-stats.vercel.app/api?username=ehaupt&show_icons=true&hide_border=true)
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ehaupt.count_visitors)
